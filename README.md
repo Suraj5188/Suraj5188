@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Suraj5188
-- 👀 I’m Data Science enthusiastic
-- 🌱 I’m currently exploring in programming
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
+<h3 align="center">I’m Data Science enthusiastic</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<!---
-Suraj5188/Suraj5188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj5188&label=Profile%20views&color=0e75b6&style=flat" alt="suraj5188" /> </p>
+
+- 🌱 I’m currently exploring in programming **Python etc**
+
+- 💬 Ask me about **Python,Mysql**
+
+- 📫 How to reach me **surajgaikwad1748@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj5188&show_icons=true&locale=en&layout=compact" alt="suraj5188" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj5188&show_icons=true&locale=en" alt="suraj5188" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj5188&" alt="suraj5188" /></p>
