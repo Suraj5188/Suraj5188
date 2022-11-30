@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj5188&label=Profile%20views&color=0e75b6&style=flat" alt="suraj5188" /> </p>
 
 - 🌱 I’m currently exploring in programming **Python etc**
+- ⚡ Funny fact **I am waste most of the time in coding**
 
 - 💬 Ask me about **Python,Mysql**
 
