@@ -8,7 +8,7 @@
 - ⚡ Funny fact -**I am spent most of the time in coding**
 - 💬 How to reach me - **[Linkedin](https://www.linkedin.com/in/suraj-gaikwad-211ab81b9/)
 [Instagram](https://www.instagram.com/suraj_5188/)**
-- 💬 Ask me about **Python,Mysql**
+- 💬 Ask me about **Python,Mysql,Coding stuff**
 
 - 📫 How to reach me **surajgaikwad1748@gmail.com**
 
