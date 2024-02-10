@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring Data Science.
 
-- 💬 Ask me about **Python, Machine Learning, NLP, MySql,etc.**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, MySql,etc.**
 
 - 📫 How to reach me **surajgaikwad1748@gmail.com**
 
