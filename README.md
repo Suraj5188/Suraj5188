@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
-- 🌱 I’m currently exploring Data Science.
+- 🌱 As Data Scientist, I bring a results-driven approach and hands-on experience to extracting valuable insights from data. My proficiency spans across data analysis, Machine Learning, Statistical Modeling, Deep Learning, SQL, Predictive Modeling, Generative AI, Large Language Models (LLMs), NLP, and LLM Frameworks. With a keen ability to tackle complex business problems and drive data-informed decision-making, I excel in data preprocessing, feature engineering, and model development, utilizing various programming languages and tools.
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, MySql,etc.**
 
