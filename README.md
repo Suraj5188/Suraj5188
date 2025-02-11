@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
-<h3 align="center">I’m Data Scientist 2.8+ Years of Experience</h3>
+<h3 align="center">I’m Data Scientist 2.10+ Years of Experience</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
