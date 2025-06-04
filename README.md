@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
-<h3 align="center">I’m Data Scientist with 3.2+ Years of Experience</h3>
+<h3 align="center">I’m Data Scientist with 3.4+ Years of Experience</h3>
 
 - 🎯 I’m a results-driven Data Scientist with:
   - 3.2+ years of experience in data-driven decision-making.
