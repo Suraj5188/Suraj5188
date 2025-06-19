@@ -2,7 +2,7 @@
 <h3 align="center">I’m Data Scientist with 3.4+ Years of Experience</h3>
 
 - 🎯 I’m a results-driven Data Scientist with:
-  - 3.2+ years of experience in data-driven decision-making.
+  - 3.4+ years of experience in data-driven decision-making.
   - Hands-on expertise in **Data Analysis**, **Machine Learning**, **Deep Learning**, and **Statistical Modeling**.
   - Proficiency in **SQL**, **Predictive Modeling**, **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **LLM Frameworks**.
   - Strong capabilities in **data preprocessing**, **feature engineering**, and **model development**.
