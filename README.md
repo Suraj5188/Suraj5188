@@ -6,7 +6,7 @@
   - Hands-on expertise in **Data Analysis**, **Machine Learning**, **Deep Learning**, and **Statistical Modeling**.
   - Proficiency in **SQL**, **Predictive Modeling**, **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **LLM Frameworks**.
   - Strong capabilities in **data preprocessing**, **feature engineering**, and **model development**.
-  - 🌱 I’m currently learning GenAI, MLOps, Recommender System, Advance NLP and GCP.
+  - 🌱 I’m currently learning Full Stack -AI, RAGOPs, Agentic AI.
 
 
 - 🎓 **Education:**
@@ -15,6 +15,17 @@
 
 - 💬 Ask me about:
   - **Python**, **Machine Learning**, **Deep Learning**, **NLP**, **MySQL**, and more.
+
+- Things I am passionate about
+
+  📈 Machine Learning
+
+  🤖 Deep Learning, Generative AI and Agentic AI
+
+  🧠 Neural Networks- Tensorflow & Keras, PyTorch
+
+  👁️ Computer Vision
+
 
 - 📫 How to reach me: **surajgaikwad1748@gmail.com**
 
