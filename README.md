@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
-<h3 align="center">I’m Data Scientist with 3.4+ Years of Experience</h3>
+<h3 align="center">I’m Data Scientist with 3.7+ Years of Experience</h3>
 
 - 🎯 I’m a results-driven Data Scientist with:
   - 3.4+ years of experience in data-driven decision-making.
@@ -16,15 +16,14 @@
 - 💬 Ask me about:
   - **Python**, **Machine Learning**, **Deep Learning**, **NLP**, **MySQL**, and more.
 
-- Things I am passionate about
+🔥 Things I Am Passionate About
 
-  📈 Machine Learning
-
-  🤖 Deep Learning, Generative AI and Agentic AI
-
-  🧠 Neural Networks- Tensorflow & Keras, PyTorch
-
-  👁️ Computer Vision
+📈 Deep Learning & Generative AI – LLMs, Transformers, Diffusion Models, GANs
+🤖 Agentic AI & AI Agents – Workflow Orchestration, LangChain, LangGraph, AutoGen
+🧠 Neural Networks & Frameworks – PyTorch, TensorFlow, Keras, Optimization
+📚 Retrieval-Augmented Generation (RAG) – Knowledge Graphs, Vector Databases, Search Augmentation
+👁️ Computer Vision – Image Recognition, Object Detection, Video Analytics
+🗣️ Natural Language Processing (NLP) – Text Generation, Summarization, Fine-Tuning LLMs
 
 
 - 📫 How to reach me: **surajgaikwad1748@gmail.com**
