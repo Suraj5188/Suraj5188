@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
 <h3 align="center">I’m Data Scientist with 3.7+ Years of Experience</h3>
 
-- 🎯 I’m a results-driven Data Scientist with:
-  - 3.4+ years of experience in data-driven decision-making.
-  - Hands-on expertise in **Data Analysis**, **Machine Learning**, **Deep Learning**, and **Statistical Modeling**.
-  - Proficiency in **SQL**, **Predictive Modeling**, **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **LLM Frameworks**.
-  - Strong capabilities in **data preprocessing**, **feature engineering**, and **model development**.
-  - 🌱 I’m currently learning Full Stack -AI, RAGOPs, Agentic AI.
+* 🎯 I’m a results-driven **Data Scientist** with:
 
+  * 3.7+ years of experience in **AI-driven solutions** and **data-driven decision-making**.
+  * Hands-on expertise in **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **LLM Frameworks** (LangChain, LangGraph, AutoGen).
+  * Proficiency in **LLMOps** and **RAGOps** for scalable deployment, monitoring, and optimization of advanced AI systems.
+  * Strong foundation in **Machine Learning**, **Deep Learning**, **Statistical Modeling**, and **Predictive Analytics**.
+  * Skilled in **SQL**, **data preprocessing**, **feature engineering**, and **end-to-end ML pipeline development**.
+  * 🌱 Currently expanding expertise in **Full-Stack AI Development** and **Agentic AI** for building autonomous, intelligent applications.
 
 - 🎓 **Education:**
   - Completed **Masters of Computer Application (MCA)** from Pune University.
@@ -19,10 +20,15 @@
 🔥 Things I Am Passionate About
 
 📈 Deep Learning & Generative AI – LLMs, Transformers, Diffusion Models, GANs
+
 🤖 Agentic AI & AI Agents – Workflow Orchestration, LangChain, LangGraph, AutoGen
+
 🧠 Neural Networks & Frameworks – PyTorch, TensorFlow, Keras, Optimization
+
 📚 Retrieval-Augmented Generation (RAG) – Knowledge Graphs, Vector Databases, Search Augmentation
+
 👁️ Computer Vision – Image Recognition, Object Detection, Video Analytics
+
 🗣️ Natural Language Processing (NLP) – Text Generation, Summarization, Fine-Tuning LLMs
 
 
